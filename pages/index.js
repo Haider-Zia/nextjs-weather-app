@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Stixor Weather App</title>
+        <title>Weather App</title>
         <link rel="icon" href="/weather.svg" />
       </Head>
       <Layout>
